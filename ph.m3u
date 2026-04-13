@@ -69,4 +69,5 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
+#EXTINF:-1,ANC
+https://localhost/live/bc2a97a9-2a01-49c8-9f66-3415012d0638
